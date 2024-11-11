@@ -1,5 +1,5 @@
 h1{
-    color:blue;
+    color:rgb(0, 255, 195);
     text-align: center;
     margin: auto;
     font-size:100px;
@@ -21,4 +21,15 @@ span{
 }
 #greensquare{
     background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+
+.square{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    padding-left: 10px;
+    border: crimson groove 1px;
 }
