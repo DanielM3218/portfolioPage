@@ -1,0 +1,24 @@
+h1{
+    color:blue;
+    text-align: center;
+    margin: auto;
+    font-size:100px;
+}
+span{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 5px solid red;
+    padding: 10px;  
+    margin: 10px;
+}
+
+#bluesquare{
+    background-color: blue;
+}
+#blacksquare{
+    background-color: black;
+}
+#greensquare{
+    background-color: green;
+}
